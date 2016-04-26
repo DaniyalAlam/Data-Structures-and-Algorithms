@@ -1,9 +1,4 @@
 /*****************************************
-* Instructions
-*  - Replace 'uwuserid' with your uWaterloo User ID
-*  - Select the current calendar term and enter the year
-*  - List students with whom you had discussions and who helped you
-*
 * uWaterloo User ID:  m32alam@uwaterloo.ca
 * Submitted for ECE 250
 * Department of Electrical and Computer Engineering
