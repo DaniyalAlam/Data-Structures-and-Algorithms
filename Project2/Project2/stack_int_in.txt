@@ -1,0 +1,41 @@
+new
+push 11
+push 12
+push 23
+push 14
+push 15
+push 26
+push 27
+push 28
+push 19
+push 10
+push 21
+cout
+pop 21
+pop 10
+pop 19
+assign
+	pop 28
+	pop 27
+	pop 26
+	pop 15
+	pop 14
+	pop 23
+	pop 12
+	top 11
+	size 1
+	cout
+	delete
+exit
+top 28
+size 8
+pop 28
+pop 27
+pop 26
+pop 15
+pop 14
+pop 23
+cout
+delete
+summary
+exit

@@ -1,0 +1,17 @@
+﻿Build started 4/6/2015 4:23:59 PM.
+     1>Project "C:\Users\Daniyal\documents\visual studio 2013\Projects\Project5\Project5\Project5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Weighted_graph_driver.cpp
+         Weighted_graph_driver.cpp
+     1>c:\users\daniyal\documents\visual studio 2013\projects\project5\project5\ece250.h(509): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\daniyal\documents\visual studio 2013\projects\project5\project5\ece250.h(548): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\daniyal\documents\visual studio 2013\projects\project5\project5\weighted_graph.h(418): warning C4715: 'Weighted_graph::insert_edge' : not all control paths return a value
+     1>c:\users\daniyal\documents\visual studio 2013\projects\project5\project5\weighted_graph.h(484): warning C4715: 'Weighted_graph::erase_edge' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Daniyal\documents\visual studio 2013\Projects\Project5\Debug\Project5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Daniyal\documents\visual studio 2013\Projects\Project5\Debug\Project5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Daniyal\documents\visual studio 2013\Projects\Project5\Debug\Project5.lib" /MACHINE:X86 Debug\Weighted_graph_driver.obj
+         Project5.vcxproj -> C:\Users\Daniyal\documents\visual studio 2013\Projects\Project5\Debug\Project5.exe
+     1>Done Building Project "C:\Users\Daniyal\documents\visual studio 2013\Projects\Project5\Project5\Project5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.03

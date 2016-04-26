@@ -1,0 +1,37 @@
+new: 3
+insert 8
+bin 0 8
+insert 16
+bin 1 16
+insert 24
+bin 3 24
+insert 32
+bin 6 32
+insert 10
+bin 2 10
+erase 16 1
+member 24 1
+insert 7
+bin 7 7
+member 15 0
+insert 64
+bin 1 64
+cout
+load_factor 0.75
+erase 10 1
+erase 7 1
+cout
+load_factor 0.75
+insert 15 
+load_factor 0.75
+insert 13
+cout
+load_factor 0.875
+insert 12
+insert 65
+cout
+load_factor 1.0
+clear
+load_factor 0.0
+delete
+summary
